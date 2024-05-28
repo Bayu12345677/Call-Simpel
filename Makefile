@@ -3,7 +3,7 @@ set:
 	apt-get upgrade
 	apt install git curl xh ncurses-utils
 	apt install neofetch
-	apt install bc openssl python
+	apt install bc openssl-tool python
 	apt install python-pip
 	pip install requests
 	pip install bs4
