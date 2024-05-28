@@ -1,13 +1,13 @@
 set:
-  apt-get update
-  apt-fet upgrade
-  apt install git curl xh ncurses-utils
-  apt install neofetch
-  apt install bc openssl python
-  apt install python-pip
-  pip install requests
-  pip install bs4
-  pip install pycryptodome
-  pip install tqdm
+	apt-get update
+	apt-fet upgrade
+	apt install git curl xh ncurses-utils
+	apt install neofetch
+	apt install bc openssl python
+	apt install python-pip
+	pip install requests
+	pip install bs4
+	pip install pycryptodome
+	pip install tqdm
 Run:
-  python Call.py
+	python Call.py
