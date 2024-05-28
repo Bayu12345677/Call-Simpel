@@ -1,6 +1,6 @@
 set:
 	apt-get update
-	apt-fet upgrade
+	apt-get upgrade
 	apt install git curl xh ncurses-utils
 	apt install neofetch
 	apt install bc openssl python
